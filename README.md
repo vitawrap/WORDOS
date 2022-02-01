@@ -1,5 +1,5 @@
 # WOR-DOS
- A wordle-like game for DOS
+ A wordle-like game for DOS, executable available for free on [itch.io](https://vitawrap.itch.io/wor-dos).
 
 ---
 16-bit **joke port** of [wordle](https://www.powerlanguage.co.uk/wordle/).
