@@ -1823,6 +1823,7 @@ const char* _thelist[] = {
 	"maker",
 	"makes",
 	"males",
+	"mango",
 	"manic",
 	"maple",
 	"march",
